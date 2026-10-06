@@ -22,12 +22,12 @@ Copyright (c) 2026 AMS. This adapted work uses the same license as the source: C
 
 There is no warranty. This repository is not legal advice.
 
-Writing style
--------------
+Language
+--------
 The text is in Simplified Technical English (ASD-STE100).
 - Idea to ask an AI model to write in ASD-STE100: Andrej Karpathy (https://github.com/karpathy),
   post on X: https://x.com/karpathy/status/2105819303471976479
-- Writing and checking: the simplified-technical-english agent skill by pili
+- Text and checks: the simplified-technical-english agent skill by pili
   (https://github.com/0xpili), https://github.com/0xpili/simplified-technical-english
 - ASD-STE100 is a specification and registered trade mark of ASD (AeroSpace and Defence
   Industries Association of Europe). This repository is not related to ASD.
