@@ -1,6 +1,6 @@
 ---
 name: dpi-ai-risk-tiers
-description: Help a vibe coder or a non-specialist find the risk tier of their AI app or agent, and list the controls and evidence that the tier must have. The method comes from DPI–AI Governance Artifacts by Sankarshan Mukhopadhyay (CC BY-SA 4.0). Use this skill when the user asks "how risky is my AI app", "what is the risk tier of my agent", "which controls does my app need", "score the risks of this feature", "what governance does my AI need", or asks about safeguards, appeals, audit, or oversight for an AI system that makes or helps make decisions about people.
+description: Help a vibe coder or a non-specialist find the risk tier of their AI app or agent, and list the controls and evidence that the tier must have. The method comes from DPI–AI Governance Artifacts by [Sankarshan Mukhopadhyay](https://github.com/sankarshanmukhopadhyay) (CC BY-SA 4.0). Use this skill when the user asks "how risky is my AI app", "what is the risk tier of my agent", "which controls does my app need", "score the risks of this feature", "what governance does my AI need", or asks about safeguards, appeals, audit, or oversight for an AI system that makes or helps make decisions about people.
 ---
 
 # DPI–AI Risk Tiers
