@@ -12,7 +12,7 @@ This repository has a plain-language explainer and an agent skill. The source is
 
 Different AI apps have different levels of risk, so they need different controls. If you do not know the level of risk of your app, you can add too few controls or too many. This kit tells you how much risk your app or agent has. It also tells you which controls it must have at that level of risk.
 
-## Who it is for
+## Who is it for?
 
 This kit is for vibe coders and for other persons who are not specialists. You make an AI app or an agent with an AI tool such as Claude, Codex, or GitHub Copilot. Before people use it, you must know which problems can occur. You do not need knowledge of law, audit, or governance.
 
@@ -25,7 +25,7 @@ The source kit is for public services, for example government agencies. The meth
 3. **The agent uses the careful rule.** If a score of 12 has an input that is not sure, the agent uses the higher tier.
 4. **No legal approval.** The kit gives you a structure. The kit does not make your app legal, certified, or approved.
 
-## What it does
+## What does it do?
 
 When you ask your AI agent for help with the risk of your app, the skill tells the agent to do these steps with you:
 
@@ -39,7 +39,7 @@ When you ask your AI agent for help with the risk of your app, the skill tells t
 
 The skill also tells the agent about frequent errors. For example, a team adds all of the controls without a reason, or a team keeps documents that no person reads.
 
-## How it works
+## How does it work?
 
 *The diagrams below use the visual language of [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design):*
 
