@@ -59,6 +59,16 @@ The source does not tell you that a higher tier includes the controls of the low
 
 Each AI agent keeps skills in a different folder. Put the full skill folder there, and name the folder `dpi-ai-risk-tiers`. Claude, Codex, and GitHub Copilot are the most used AI agents for code in the [JetBrains 2026 survey](https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/). Other agents that support Agent Skills work in the same way.
 
+### One command for all agents
+
+If you have Node.js, run this command in a terminal. The command installs the skill for Claude Code, Codex, GitHub Copilot, and other agents.
+
+```
+npx skills add ams-builds/dpi-ai-governance-explained
+```
+
+To get the latest version later, run `npx skills update`. The command uses [skills](https://github.com/vercel-labs/skills) by [Vercel](https://github.com/vercel-labs). If you do not use a terminal, use the instructions for your agent below.
+
 ### Claude
 
 1. For claude.ai or the Claude desktop app, make a zip file of the skill folder.
