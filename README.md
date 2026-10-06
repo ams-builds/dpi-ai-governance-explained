@@ -1,12 +1,16 @@
 # dpi-ai-governance-explained
 
-**The pitch: you make an AI app or an agent. This kit tells you how much risk it has, and which controls it must have at that level of risk.**
+## What is it?
+
+This repository has a plain-language explainer and a Claude skill. The source is [DPI–AI Governance Artifacts](https://github.com/sankarshanmukhopadhyay/dpi-ai-governance-artifacts) by Sankarshan Mukhopadhyay. The source is a large kit for the governance of AI in public digital systems. This explainer uses one part of the kit, the risk tier method, and makes it easy to use.
 
 ![Six steps: you give a description of your app, Claude scores the risks, you confirm the tier, Claude drafts the controls, and you keep the evidence](assets/kit-at-a-glance.svg)
 
 *For plain English of the technical words, refer to the [Jargon Buster](JARGON.md).*
 
-This repository has a plain-language explainer and a Claude skill. The source is [DPI–AI Governance Artifacts](https://github.com/sankarshanmukhopadhyay/dpi-ai-governance-artifacts) by Sankarshan Mukhopadhyay. The source is a large kit for the governance of AI in public digital systems. This explainer uses one part of the kit, the risk tier method, and makes it easy to use.
+## What problem does it solve?
+
+Different AI apps have different levels of risk, so they need different controls. If you do not know the level of risk of your app, you can add too few controls or too many. This kit tells you how much risk your app or agent has. It also tells you which controls it must have at that level of risk.
 
 ## Who it is for
 
