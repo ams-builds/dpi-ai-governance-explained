@@ -103,6 +103,8 @@ What I changed:
 
 The source uses the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0). This repository uses the same license, as the ShareAlike term tells. Refer to [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
 
+**Writing style.** I wrote the text in Simplified Technical English (ASD-STE100). The idea to ask an AI model to write in ASD-STE100 comes from [Andrej Karpathy](https://github.com/karpathy) ([his post on X](https://x.com/karpathy/status/2105819303471976479)). I used the [simplified-technical-english](https://github.com/0xpili/simplified-technical-english) agent skill by [pili](https://github.com/0xpili) to write and check the text. ASD-STE100 is a specification of ASD (AeroSpace and Defence Industries Association of Europe). This repository is not related to ASD.
+
 ---
 
 *For plain English of new words, refer to the [Jargon Buster](JARGON.md). It has risk tier, priority score, decision receipt, evidence bundle, and more.*
