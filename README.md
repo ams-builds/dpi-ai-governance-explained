@@ -14,7 +14,7 @@ Different AI apps have different levels of risk, so they need different controls
 
 ## Who is it for?
 
-This kit is for vibe coders and for other persons who are not specialists. You make an AI app or an agent with an AI tool such as Claude, Codex, or GitHub Copilot. Before people use it, you must know which problems can occur. You do not need knowledge of law, audit, or governance.
+This kit is for small teams, teams that grow quickly, and solo builders who put AI agents into real work. You do not need to be a specialist in risk, cybersecurity, governance, or safety. Before people use it, you must know which problems can occur. You do not need knowledge of law, audit, or governance.
 
 The source kit is for public services, for example government agencies. The method also works for a small team. The source gives a pathway for a startup or a small team in `docs/guides/adoption-pathways.md`.
 
