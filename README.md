@@ -2,11 +2,11 @@
 
 ## What is it?
 
-This repository has a plain-language explainer and an agent skill. The source is [DPI–AI Governance Artifacts](https://github.com/sankarshanmukhopadhyay/dpi-ai-governance-artifacts) by [Sankarshan Mukhopadhyay](https://github.com/sankarshanmukhopadhyay). The source is a large kit for the governance of AI in public digital systems. This explainer uses one part of the kit, the risk tier method, and makes it easy to use. The skill is a `SKILL.md` file in the open [Agent Skills](https://agentskills.io) format, so it works with many AI agents.
+This repository has a simple guide and a ready-made skill for your AI agent. The source is [DPI–AI Governance Artifacts](https://github.com/sankarshanmukhopadhyay/dpi-ai-governance-artifacts) by [Sankarshan Mukhopadhyay](https://github.com/sankarshanmukhopadhyay). The source is a large kit for the governance of AI in public digital systems. This guide uses one part of the kit, the risk tier method, and makes it easy to use. The skill is a `SKILL.md` file in the open [Agent Skills](https://agentskills.io) format, so it works with many AI agents.
 
 ![Your AI agent scores the risks of your app, you confirm the tier, the agent drafts the controls, and you keep the evidence](assets/kit-at-a-glance.svg)
 
-*For plain English of the technical words, refer to the [Jargon Buster](JARGON.md).*
+*For simple meanings of the technical words, refer to the [Jargon Buster](JARGON.md).*
 
 ## What problem does it solve?
 
@@ -53,7 +53,7 @@ The source gives an example. An agent that acts without a clear legal authority 
 
 Each tier has a set of controls. Tier 0 must have only logs and traceability. Tier 3 must have a person who confirms decisions, a formal appeal for affected people, and an independent audit. A higher tier also sends the review to a wider group.
 
-The source does not tell you that a higher tier includes the controls of the lower tiers. This explainer does not add that rule.
+The source does not tell you that a higher tier includes the controls of the lower tiers. This guide does not add that rule.
 
 ## How to install
 
@@ -100,13 +100,13 @@ The skill starts automatically. You do not need to use its name.
 
 ## Credit and license
 
-This explainer is based on **DPI–AI Governance Artifacts**, version 1.2.0 (released 2026-10-01), by [Sankarshan Mukhopadhyay](https://github.com/sankarshanmukhopadhyay): <https://github.com/sankarshanmukhopadhyay/dpi-ai-governance-artifacts>.
+This guide is based on **DPI–AI Governance Artifacts**, version 1.2.0 (released 2026-10-01), by [Sankarshan Mukhopadhyay](https://github.com/sankarshanmukhopadhyay): <https://github.com/sankarshanmukhopadhyay/dpi-ai-governance-artifacts>.
 
-This is an independent plain-language explainer. It is not an official part of the source project, and the source author did not review it.
+This is an independent guide. It is not an official part of the source project, and the source author did not review it.
 
 What I changed:
 
-1. I wrote a plain-language explanation of the risk tier method in Simplified Technical English.
+1. I explained the risk tier method in simple words in Simplified Technical English.
 2. I made three new diagrams.
 3. I wrote an agent skill (`SKILL.md`) that applies the method to an app or an agent.
 4. I used only a small part of the source. Most of the source kit is not in this repository.
@@ -117,4 +117,4 @@ The source uses the Creative Commons Attribution-ShareAlike 4.0 International li
 
 ---
 
-*For plain English of new words, refer to the [Jargon Buster](JARGON.md). It has risk tier, priority score, decision receipt, evidence bundle, and more.*
+*For simple meanings of new words, refer to the [Jargon Buster](JARGON.md). It has risk tier, priority score, decision receipt, evidence bundle, and more.*

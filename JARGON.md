@@ -1,6 +1,6 @@
 # Jargon Buster
 
-This file gives plain English for the technical words in this project. The README uses few of these words. This file has the accurate words for readers who want them.
+This file gives simple meanings for the technical words in this project. The README uses few of these words. This file has the accurate words for readers who want them.
 
 **Agent**
 Software that does actions for a person or for an organization. For example, an agent can send a message or approve a request.
